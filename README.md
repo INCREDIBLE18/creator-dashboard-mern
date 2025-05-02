@@ -77,8 +77,8 @@ This project is a MERN stack web application designed as a dashboard for content
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-github-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/INCREDIBLE18/creator-dashboard-mern.git
+    cd creator-dashboard-mern
     ```
 
 2.  **Setup Backend:**
