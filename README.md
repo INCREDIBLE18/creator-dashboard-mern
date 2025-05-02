@@ -1,8 +1,8 @@
-# Creator Dashboard (VertxAI Assignment 1)
+# Creator Dashboard (Creator-Hub)
 
 ## Description
 
-This project is a web application built for the VertxAI MERN Stack Developer Assignment 1. It serves as a dashboard for creators, allowing them to manage their profile, view an aggregated content feed from multiple sources, interact with posts (save, share, report), and earn credit points based on their activity. The application also includes an admin panel for basic user and content management.
+This project is a MERN stack web application designed as a dashboard for content creators. It allows users to manage their profile, earn virtual credits for activity (daily login, profile completion, saving/reporting posts), interact with an aggregated content feed (from sources like Reddit and Twitter/X), save favorite posts, and includes basic admin functionalities for user and content management.
 
 ## Features Implemented
 
