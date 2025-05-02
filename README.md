@@ -45,6 +45,26 @@ This project is a web application built for the VertxAI MERN Stack Developer Ass
     * Backend: Google Cloud Run (Docker)
     * Frontend: Firebase Hosting (or Google Cloud alternative)
 
+## Screenshots
+
+
+**Login Page:**
+![Login Page](screenshots/login_page.png)
+
+**Dashboard:**
+![Dashboard Page](screenshots/Dashboard_page.png)
+
+**Edit Profile Page:**
+![Edit Profile Page](screenshots/edit_profile_page.png)
+
+**Admin - User Management:**
+![Admin User List](screenshots/admin_usermanagement_page.png)
+
+**Admin - Reported Posts:**
+![Admin Reports List](screenshots/reported_posts_page.png)
+
+
+
 ## Instructions to Run Locally
 
 **Prerequisites:**

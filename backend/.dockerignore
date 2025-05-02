@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+*.env
+.git
+.gitignore
+README.md
+# Add any other local files/folders you don't need in the final image
